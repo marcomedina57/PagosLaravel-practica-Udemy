@@ -1,0 +1,1 @@
+<small>Seras rediregido a la pagina de Paypal</small>
